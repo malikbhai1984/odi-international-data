@@ -1,0 +1,70 @@
+match_id,date,venue,team1,team2,team1_score,team2_score,winner,toss_winner,toss_decision,total_balls,avg_1st_innings_score,pitch_type
+1439904.json,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",England,India,248/10,251/6,India,England,bat,525,272.5,Balanced
+1439905.json,2025-02-09,"Barabati Stadium, Cuttack",England,India,304/10,308/6,India,England,bat,582,272.5,Balanced
+1439906.json,2025-02-12,"Narendra Modi Stadium, Ahmedabad",India,England,356/10,214/10,India,England,field,517,272.5,Balanced
+1442220.json,2025-02-08,"Gaddafi Stadium, Lahore",New Zealand,Pakistan,330/6,252/9,New Zealand,New Zealand,bat,599,272.5,Balanced
+1442221.json,2025-02-10,"Gaddafi Stadium, Lahore",South Africa,New Zealand,304/6,308/4,New Zealand,New Zealand,field,619,272.5,Balanced
+1442222.json,2025-02-12,"National Stadium, Karachi",South Africa,Pakistan,352/5,355/4,Pakistan,South Africa,bat,607,272.5,Balanced
+1442223.json,2025-02-14,"National Stadium, Karachi",Pakistan,New Zealand,242/10,243/5,New Zealand,Pakistan,bat,591,272.5,Balanced
+1443546.json,2025-01-05,"Basin Reserve, Wellington",Sri Lanka,New Zealand,178/10,180/1,New Zealand,New Zealand,field,438,272.5,Balanced
+1443547.json,2025-01-08,"Seddon Park, Hamilton",New Zealand,Sri Lanka,255/9,142/10,New Zealand,Sri Lanka,field,414,272.5,Balanced
+1443548.json,2025-01-11,"Eden Park, Auckland",Sri Lanka,New Zealand,290/8,150/10,Sri Lanka,Sri Lanka,bat,497,272.5,Balanced
+1443554.json,2025-03-29,"McLean Park, Napier",New Zealand,Pakistan,344/9,271/10,New Zealand,Pakistan,field,597,272.5,Balanced
+1443555.json,2025-04-02,"Seddon Park, Hamilton",New Zealand,Pakistan,292/8,208/11,New Zealand,Pakistan,field,580,272.5,Balanced
+1443556.json,2025-04-05,"Bay Oval, Mount Maunganui",New Zealand,Pakistan,264/8,221/11,New Zealand,Pakistan,field,518,272.5,Balanced
+1448343.json,2025-05-29,"Edgbaston, Birmingham",England,West Indies,400/8,162/10,England,West Indies,field,480,272.5,Balanced
+1448344.json,2025-06-01,"Sophia Gardens, Cardiff",West Indies,England,308/10,312/7,England,England,field,596,272.5,Balanced
+1448345.json,2025-06-03,"Kennington Oval, London",West Indies,England,251/9,246/3,England,England,field,430,272.5,Balanced
+1448354.json,2025-09-02,"Headingley, Leeds",England,South Africa,131/10,137/3,South Africa,South Africa,field,281,272.5,Balanced
+1448355.json,2025-09-04,"Lord's, London",South Africa,England,330/8,325/9,South Africa,England,field,620,272.5,Balanced
+1448356.json,2025-09-07,"The Rose Bowl, Southampton",England,South Africa,414/5,72/9,England,South Africa,field,452,272.5,Balanced
+1459908.json,2025-02-12,"R Premadasa Stadium, Colombo",Sri Lanka,Australia,214/10,165/10,Sri Lanka,Sri Lanka,bat,490,272.5,Balanced
+1466414.json,2025-02-19,"National Stadium, Karachi",New Zealand,Pakistan,320/5,260/10,New Zealand,Pakistan,field,595,272.5,Balanced
+1466415.json,2025-02-20,Dubai International Cricket Stadium,Bangladesh,India,228/10,231/4,India,Bangladesh,bat,588,272.5,Balanced
+1466417.json,2025-02-22,"Gaddafi Stadium, Lahore",England,Australia,351/8,356/5,Australia,Australia,field,598,272.5,Balanced
+1466418.json,2025-02-23,Dubai International Cricket Stadium,Pakistan,India,241/10,244/4,India,Pakistan,bat,570,272.5,Balanced
+1466419.json,2025-02-24,Rawalpindi Cricket Stadium,Bangladesh,New Zealand,236/9,240/5,New Zealand,New Zealand,field,594,272.5,Balanced
+1466424.json,2025-03-01,"National Stadium, Karachi",England,South Africa,179/10,181/3,South Africa,England,bat,428,272.5,Balanced
+1466425.json,2025-03-02,Dubai International Cricket Stadium,India,New Zealand,249/9,205/10,India,New Zealand,field,587,272.5,Balanced
+1466426.json,2025-03-04,Dubai International Cricket Stadium,Australia,India,264/10,267/6,India,Australia,bat,596,272.5,Balanced
+1466427.json,2025-03-05,"Gaddafi Stadium, Lahore",New Zealand,South Africa,362/6,312/9,New Zealand,New Zealand,bat,613,272.5,Balanced
+1466428.json,2025-03-09,Dubai International Cricket Stadium,New Zealand,India,251/7,254/6,India,New Zealand,bat,609,272.5,Balanced
+1467701.json,2025-02-14,Harare Sports Club,Zimbabwe,Ireland,299/5,250/10,Zimbabwe,Ireland,field,602,272.5,Balanced
+1467702.json,2025-02-16,Harare Sports Club,Zimbabwe,Ireland,245/10,249/4,Ireland,Ireland,field,604,272.5,Balanced
+1467703.json,2025-02-18,Harare Sports Club,Ireland,Zimbabwe,240/6,246/1,Zimbabwe,Zimbabwe,field,549,272.5,Balanced
+1469168.json,2025-02-14,"R Premadasa Stadium, Colombo",Sri Lanka,Australia,281/4,107/10,Sri Lanka,Sri Lanka,bat,453,272.5,Balanced
+1472511.json,2025-05-21,"Castle Avenue, Dublin",Ireland,West Indies,303/6,179/10,Ireland,West Indies,field,519,272.5,Balanced
+1472512.json,2025-05-23,"Castle Avenue, Dublin",West Indies,Ireland,352/8,0/0,Unknown,Ireland,field,311,272.5,Balanced
+1472513.json,2025-05-25,"Castle Avenue, Dublin",West Indies,Ireland,385/7,165/8,West Indies,Ireland,field,506,272.5,Balanced
+1472528.json,2025-08-08,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,Pakistan,280/10,284/5,Pakistan,Pakistan,field,615,272.5,Balanced
+1472529.json,2025-08-10,"Brian Lara Stadium, Tarouba, Trinidad",Pakistan,West Indies,171/7,184/5,West Indies,West Indies,field,434,272.5,Balanced
+1472530.json,2025-08-12,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,Pakistan,294/6,92/10,West Indies,Pakistan,field,484,272.5,Balanced
+1478901.json,2025-08-19,"Cazaly's Stadium, Cairns",South Africa,Australia,296/8,198/10,South Africa,Australia,field,553,272.5,Balanced
+1478902.json,2025-08-22,"Great Barrier Reef Arena, Mackay",South Africa,Australia,277/10,193/10,South Africa,South Africa,bat,530,272.5,Balanced
+1478903.json,2025-08-24,"Great Barrier Reef Arena, Mackay",Australia,South Africa,431/2,155/10,Australia,Australia,bat,464,272.5,Balanced
+1478904.json,2025-10-19,Perth Stadium,India,Australia,136/9,131/3,Australia,Australia,field,293,272.5,Balanced
+1478905.json,2025-10-23,Adelaide Oval,India,Australia,264/9,265/8,Australia,Australia,field,589,272.5,Balanced
+1478906.json,2025-10-25,Sydney Cricket Ground,Australia,India,236/10,237/1,India,Australia,bat,522,272.5,Balanced
+1479573.json,2025-11-30,"JSCA International Stadium Complex, Ranchi",India,South Africa,349/8,332/10,India,South Africa,field,609,272.5,Balanced
+1479574.json,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",India,South Africa,358/5,362/7,South Africa,South Africa,field,623,272.5,Balanced
+1479575.json,2025-12-06,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",South Africa,India,270/10,271/1,India,India,field,543,272.5,Balanced
+1485505.json,2025-07-02,"R Premadasa Stadium, Colombo",Sri Lanka,Bangladesh,244/10,167/10,Sri Lanka,Sri Lanka,bat,518,272.5,Balanced
+1485506.json,2025-07-05,"R Premadasa Stadium, Colombo",Bangladesh,Sri Lanka,248/10,232/10,Bangladesh,Bangladesh,bat,580,272.5,Balanced
+1485507.json,2025-07-08,Pallekele International Cricket Stadium,Sri Lanka,Bangladesh,285/7,186/10,Sri Lanka,Sri Lanka,bat,547,272.5,Balanced
+1491720.json,2025-10-26,"Bay Oval, Mount Maunganui",England,New Zealand,223/10,224/6,New Zealand,New Zealand,field,461,272.5,Balanced
+1491721.json,2025-10-29,"Seddon Park, Hamilton",England,New Zealand,175/10,177/5,New Zealand,New Zealand,field,420,272.5,Balanced
+1491722.json,2025-11-01,"Sky Stadium, Wellington",England,New Zealand,222/10,226/8,New Zealand,New Zealand,field,525,272.5,Balanced
+1491728.json,2025-11-16,"Hagley Oval, Christchurch",New Zealand,West Indies,269/7,262/6,New Zealand,West Indies,field,624,272.5,Balanced
+1491729.json,2025-11-19,"McLean Park, Napier",West Indies,New Zealand,247/9,248/5,New Zealand,New Zealand,field,418,272.5,Balanced
+1491730.json,2025-11-22,"Seddon Park, Hamilton",West Indies,New Zealand,161/10,162/6,New Zealand,West Indies,bat,412,272.5,Balanced
+1492821.json,2025-08-29,Harare Sports Club,Sri Lanka,Zimbabwe,298/6,291/8,Sri Lanka,Zimbabwe,field,621,272.5,Balanced
+1492822.json,2025-08-31,Harare Sports Club,Zimbabwe,Sri Lanka,277/7,278/5,Sri Lanka,Sri Lanka,field,617,272.5,Balanced
+1501898.json,2025-11-04,"Iqbal Stadium, Faisalabad",South Africa,Pakistan,263/10,264/8,Pakistan,Pakistan,field,607,272.5,Balanced
+1501899.json,2025-11-06,"Iqbal Stadium, Faisalabad",Pakistan,South Africa,269/9,270/2,South Africa,Pakistan,bat,555,272.5,Balanced
+1501900.json,2025-11-08,"Iqbal Stadium, Faisalabad",South Africa,Pakistan,143/10,144/3,Pakistan,South Africa,bat,380,272.5,Balanced
+1502167.json,2025-11-11,Rawalpindi Cricket Stadium,Pakistan,Sri Lanka,299/5,293/9,Pakistan,Sri Lanka,field,631,272.5,Balanced
+1502168.json,2025-11-14,Rawalpindi Cricket Stadium,Sri Lanka,Pakistan,288/8,289/2,Pakistan,Pakistan,field,615,272.5,Balanced
+1502169.json,2025-11-16,Rawalpindi Cricket Stadium,Sri Lanka,Pakistan,211/10,215/4,Pakistan,Pakistan,field,557,272.5,Balanced
+1505122.json,2025-10-18,"Shere Bangla National Stadium, Mirpur",Bangladesh,West Indies,207/10,133/10,Bangladesh,West Indies,field,541,272.5,Balanced
+1505123.json,2025-10-21,"Shere Bangla National Stadium, Mirpur",Bangladesh,West Indies,222/8,223/10,Unknown,Bangladesh,bat,623,272.5,Balanced
+1505124.json,2025-10-23,"Shere Bangla National Stadium, Mirpur",Bangladesh,West Indies,296/8,117/10,Bangladesh,Bangladesh,bat,489,272.5,Balanced

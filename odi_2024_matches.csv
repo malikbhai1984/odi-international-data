@@ -1,0 +1,42 @@
+match_id,date,venue,team1,team2,team1_score,team2_score,winner,toss_winner,toss_decision,total_balls,avg_1st_innings_score,pitch_type
+1375847.json,2024-02-02,Melbourne Cricket Ground,West Indies,Australia,231/10,232/2,Australia,Australia,field,534,241.6,Slow / Bowling
+1375848.json,2024-02-04,Sydney Cricket Ground,Australia,West Indies,258/9,175/10,Australia,West Indies,field,571,241.6,Slow / Bowling
+1375849.json,2024-02-06,"Manuka Oval, Canberra",West Indies,Australia,86/10,87/2,Australia,Australia,field,197,241.6,Slow / Bowling
+1385700.json,2024-09-19,"Trent Bridge, Nottingham",England,Australia,315/10,317/3,Australia,England,bat,577,241.6,Slow / Bowling
+1385701.json,2024-09-21,"Headingley, Leeds",Australia,England,270/10,202/10,Australia,England,field,532,241.6,Slow / Bowling
+1385702.json,2024-09-24,"Riverside Ground, Chester-le-Street",Australia,England,304/7,254/4,England,England,field,546,241.6,Slow / Bowling
+1385703.json,2024-09-27,"Lord's, London",England,Australia,312/5,126/10,England,Australia,field,399,241.6,Slow / Bowling
+1385704.json,2024-09-29,"County Ground, Bristol",England,Australia,309/10,165/2,Australia,Australia,field,425,241.6,Slow / Bowling
+1412539.json,2024-01-06,"R Premadasa Stadium, Colombo",Sri Lanka,Zimbabwe,273/9,12/2,Unknown,Sri Lanka,bat,328,241.6,Slow / Bowling
+1412540.json,2024-01-08,"R Premadasa Stadium, Colombo",Zimbabwe,Sri Lanka,208/10,211/8,Sri Lanka,Zimbabwe,bat,572,241.6,Slow / Bowling
+1412541.json,2024-01-11,"R Premadasa Stadium, Colombo",Zimbabwe,Sri Lanka,96/10,97/2,Sri Lanka,Zimbabwe,bat,242,241.6,Slow / Bowling
+1419827.json,2024-03-13,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sri Lanka,Bangladesh,255/10,257/4,Bangladesh,Sri Lanka,bat,580,241.6,Slow / Bowling
+1419828.json,2024-03-15,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Sri Lanka,286/7,287/7,Sri Lanka,Sri Lanka,field,601,241.6,Slow / Bowling
+1419829.json,2024-03-18,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sri Lanka,Bangladesh,235/10,237/6,Bangladesh,Sri Lanka,bat,561,241.6,Slow / Bowling
+1426549.json,2024-11-04,Melbourne Cricket Ground,Pakistan,Australia,203/10,204/8,Australia,Australia,field,497,241.6,Slow / Bowling
+1426550.json,2024-11-08,Adelaide Oval,Australia,Pakistan,163/10,169/1,Pakistan,Pakistan,field,378,241.6,Slow / Bowling
+1426551.json,2024-11-10,Perth Stadium,Australia,Pakistan,140/10,143/2,Pakistan,Pakistan,field,368,241.6,Slow / Bowling
+1431088.json,2024-10-02,"Zayed Cricket Stadium, Abu Dhabi",South Africa,Ireland,271/9,132/10,South Africa,South Africa,bat,501,241.6,Slow / Bowling
+1431089.json,2024-10-04,"Zayed Cricket Stadium, Abu Dhabi",South Africa,Ireland,343/5,169/10,South Africa,South Africa,bat,497,241.6,Slow / Bowling
+1431090.json,2024-10-07,"Zayed Cricket Stadium, Abu Dhabi",Ireland,South Africa,284/9,215/10,Ireland,Ireland,bat,594,241.6,Slow / Bowling
+1432214.json,2024-12-17,"Boland Park, Paarl",South Africa,Pakistan,239/9,242/7,Pakistan,South Africa,bat,609,241.6,Slow / Bowling
+1432215.json,2024-12-19,"Newlands, Cape Town",Pakistan,South Africa,329/10,248/10,Pakistan,South Africa,field,571,241.6,Slow / Bowling
+1432216.json,2024-12-22,"The Wanderers Stadium, Johannesburg",Pakistan,South Africa,308/9,271/10,Pakistan,South Africa,field,556,241.6,Slow / Bowling
+1433370.json,2024-10-31,"Sir Vivian Richards Stadium, North Sound, Antigua",England,West Indies,209/10,157/2,West Indies,West Indies,field,437,241.6,Slow / Bowling
+1433371.json,2024-11-02,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,England,328/6,329/5,England,England,field,600,241.6,Slow / Bowling
+1433372.json,2024-11-06,"Kensington Oval, Bridgetown, Barbados",England,West Indies,263/8,267/2,West Indies,West Indies,field,571,241.6,Slow / Bowling
+1433380.json,2024-12-08,"Warner Park, Basseterre, St Kitts",Bangladesh,West Indies,294/6,295/5,West Indies,Bangladesh,bat,598,241.6,Slow / Bowling
+1433381.json,2024-12-10,"Warner Park, Basseterre, St Kitts",Bangladesh,West Indies,227/10,230/3,West Indies,West Indies,field,512,241.6,Slow / Bowling
+1433382.json,2024-12-12,"Warner Park, Basseterre, St Kitts",Bangladesh,West Indies,321/5,325/6,West Indies,West Indies,field,588,241.6,Slow / Bowling
+1442990.json,2024-08-02,"R Premadasa Stadium, Colombo",Sri Lanka,India,230/8,230/10,Unknown,Sri Lanka,bat,597,241.6,Slow / Bowling
+1442991.json,2024-08-04,"R Premadasa Stadium, Colombo",Sri Lanka,India,240/9,208/10,Sri Lanka,Sri Lanka,bat,566,241.6,Slow / Bowling
+1442992.json,2024-08-07,"R Premadasa Stadium, Colombo",Sri Lanka,India,248/7,138/10,Sri Lanka,Sri Lanka,bat,458,241.6,Slow / Bowling
+1444649.json,2024-11-24,"Queens Sports Club, Bulawayo",Zimbabwe,Pakistan,205/10,60/6,Zimbabwe,Pakistan,field,376,241.6,Slow / Bowling
+1444650.json,2024-11-26,"Queens Sports Club, Bulawayo",Zimbabwe,Pakistan,145/10,148/0,Pakistan,Zimbabwe,bat,313,241.6,Slow / Bowling
+1444651.json,2024-11-28,"Queens Sports Club, Bulawayo",Pakistan,Zimbabwe,303/6,204/10,Pakistan,Pakistan,bat,550,241.6,Slow / Bowling
+1451817.json,2024-10-20,Pallekele International Cricket Stadium,West Indies,Sri Lanka,185/4,234/5,Sri Lanka,West Indies,bat,427,241.6,Slow / Bowling
+1451818.json,2024-10-23,Pallekele International Cricket Stadium,West Indies,Sri Lanka,189/10,190/5,Sri Lanka,Sri Lanka,field,452,241.6,Slow / Bowling
+1451819.json,2024-10-26,Pallekele International Cricket Stadium,Sri Lanka,West Indies,156/3,196/2,West Indies,West Indies,field,275,241.6,Slow / Bowling
+1456443.json,2024-11-13,Rangiri Dambulla International Stadium,Sri Lanka,New Zealand,324/5,175/9,Sri Lanka,Sri Lanka,bat,468,241.6,Slow / Bowling
+1456444.json,2024-11-17,Pallekele International Cricket Stadium,New Zealand,Sri Lanka,209/10,210/7,Sri Lanka,Sri Lanka,field,558,241.6,Slow / Bowling
+1456445.json,2024-11-19,Pallekele International Cricket Stadium,New Zealand,Sri Lanka,112/1,0/0,Unknown,New Zealand,bat,126,241.6,Slow / Bowling

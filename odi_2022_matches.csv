@@ -1,0 +1,69 @@
+match_id,date,venue,team1,team2,team1_score,team2_score,winner,toss_winner,toss_decision,total_balls,avg_1st_innings_score,pitch_type
+1276907.json,2022-07-12,"Kennington Oval, London",England,India,110/10,114/0,India,India,field,272,243.1,Slow / Bowling
+1276908.json,2022-07-14,"Lord's, London",England,India,246/10,146/10,England,India,field,537,243.1,Slow / Bowling
+1276909.json,2022-07-17,"Old Trafford, Manchester",England,India,259/10,261/5,India,India,field,542,243.1,Slow / Bowling
+1276910.json,2022-07-19,"Riverside Ground, Chester-le-Street",South Africa,England,333/5,271/10,South Africa,South Africa,bat,596,243.1,Slow / Bowling
+1276911.json,2022-07-22,"Old Trafford, Manchester",England,South Africa,201/10,83/10,England,South Africa,field,300,243.1,Slow / Bowling
+1276912.json,2022-07-24,"Headingley, Leeds",South Africa,England,159/2,0/0,Unknown,South Africa,bat,170,243.1,Slow / Bowling
+1277082.json,2022-01-19,"Boland Park, Paarl",South Africa,India,296/4,265/8,South Africa,South Africa,bat,623,243.1,Slow / Bowling
+1277083.json,2022-01-21,"Boland Park, Paarl",India,South Africa,287/6,288/3,South Africa,India,bat,605,243.1,Slow / Bowling
+1277084.json,2022-01-23,"Newlands, Cape Town",South Africa,India,287/10,283/10,South Africa,India,field,616,243.1,Slow / Bowling
+1277085.json,2022-01-08,"Sabina Park, Kingston, Jamaica",West Indies,Ireland,269/10,245/11,West Indies,Ireland,field,609,243.1,Slow / Bowling
+1277086.json,2022-01-13,"Sabina Park, Kingston, Jamaica",West Indies,Ireland,229/10,168/5,Ireland,Ireland,field,509,243.1,Slow / Bowling
+1277087.json,2022-01-16,"Sabina Park, Kingston, Jamaica",West Indies,Ireland,212/10,214/8,Ireland,Ireland,field,564,243.1,Slow / Bowling
+1277097.json,2022-03-18,"SuperSport Park, Centurion",Bangladesh,South Africa,314/7,276/10,Bangladesh,South Africa,field,614,243.1,Slow / Bowling
+1277098.json,2022-03-20,"The Wanderers Stadium, Johannesburg",Bangladesh,South Africa,194/9,195/3,South Africa,Bangladesh,bat,538,243.1,Slow / Bowling
+1277099.json,2022-03-23,"SuperSport Park, Centurion",South Africa,Bangladesh,154/10,156/1,Bangladesh,South Africa,bat,389,243.1,Slow / Bowling
+1278676.json,2022-02-06,"Narendra Modi Stadium, Ahmedabad",West Indies,India,176/10,178/4,India,India,field,443,243.1,Slow / Bowling
+1278677.json,2022-02-09,"Narendra Modi Stadium, Ahmedabad",India,West Indies,237/9,193/10,India,West Indies,field,587,243.1,Slow / Bowling
+1278678.json,2022-02-11,"Narendra Modi Stadium, Ahmedabad",India,West Indies,265/10,169/10,India,India,bat,550,243.1,Slow / Bowling
+1288313.json,2022-03-29,"Gaddafi Stadium, Lahore",Australia,Pakistan,313/7,225/10,Australia,Pakistan,field,588,243.1,Slow / Bowling
+1288314.json,2022-03-31,"Gaddafi Stadium, Lahore",Australia,Pakistan,348/8,349/4,Pakistan,Pakistan,field,598,243.1,Slow / Bowling
+1288315.json,2022-04-02,"Gaddafi Stadium, Lahore",Australia,Pakistan,210/10,214/1,Pakistan,Pakistan,field,486,243.1,Slow / Bowling
+1294969.json,2022-01-16,Pallekele International Cricket Stadium,Zimbabwe,Sri Lanka,296/9,300/5,Sri Lanka,Zimbabwe,bat,609,243.1,Slow / Bowling
+1294970.json,2022-01-18,Pallekele International Cricket Stadium,Zimbabwe,Sri Lanka,302/8,280/9,Zimbabwe,Zimbabwe,bat,608,243.1,Slow / Bowling
+1294971.json,2022-01-21,Pallekele International Cricket Stadium,Sri Lanka,Zimbabwe,254/9,70/10,Sri Lanka,Sri Lanka,bat,456,243.1,Slow / Bowling
+1303309.json,2022-07-10,"The Village, Malahide, Dublin",Ireland,New Zealand,300/9,305/9,New Zealand,New Zealand,field,616,243.1,Slow / Bowling
+1303310.json,2022-07-12,"The Village, Malahide, Dublin",Ireland,New Zealand,216/10,219/7,New Zealand,New Zealand,field,537,243.1,Slow / Bowling
+1303311.json,2022-07-15,"The Village, Malahide, Dublin",New Zealand,Ireland,360/6,359/9,New Zealand,New Zealand,bat,617,243.1,Slow / Bowling
+1307296.json,2022-06-14,Pallekele International Cricket Stadium,Sri Lanka,Australia,300/7,282/8,Australia,Sri Lanka,bat,565,243.1,Slow / Bowling
+1307297.json,2022-06-16,Pallekele International Cricket Stadium,Sri Lanka,Australia,220/9,189/10,Sri Lanka,Australia,field,518,243.1,Slow / Bowling
+1307298.json,2022-06-19,"R Premadasa Stadium, Colombo",Australia,Sri Lanka,291/6,292/5,Sri Lanka,Australia,bat,598,243.1,Slow / Bowling
+1307299.json,2022-06-21,"R Premadasa Stadium, Colombo",Sri Lanka,Australia,258/10,254/10,Sri Lanka,Australia,field,604,243.1,Slow / Bowling
+1307300.json,2022-06-24,"R Premadasa Stadium, Colombo",Sri Lanka,Australia,160/10,164/6,Australia,Sri Lanka,bat,507,243.1,Slow / Bowling
+1315038.json,2022-06-08,Multan Cricket Stadium,West Indies,Pakistan,305/8,306/5,Pakistan,West Indies,bat,613,243.1,Slow / Bowling
+1315039.json,2022-06-10,Multan Cricket Stadium,Pakistan,West Indies,275/8,155/10,Pakistan,Pakistan,bat,503,243.1,Slow / Bowling
+1315040.json,2022-06-12,Multan Cricket Stadium,Pakistan,West Indies,269/9,216/10,Pakistan,Pakistan,bat,527,243.1,Slow / Bowling
+1317152.json,2022-07-10,"Providence Stadium, Guyana",West Indies,Bangladesh,149/9,151/4,Bangladesh,Bangladesh,field,452,243.1,Slow / Bowling
+1317153.json,2022-07-13,"Providence Stadium, Guyana",West Indies,Bangladesh,108/10,112/1,Bangladesh,Bangladesh,field,346,243.1,Slow / Bowling
+1317154.json,2022-07-16,"Providence Stadium, Guyana",West Indies,Bangladesh,178/10,179/6,Bangladesh,Bangladesh,field,592,243.1,Slow / Bowling
+1317476.json,2022-08-28,"Tony Ireland Stadium, Townsville",Zimbabwe,Australia,200/10,201/5,Australia,Australia,field,500,243.1,Slow / Bowling
+1317477.json,2022-08-31,"Tony Ireland Stadium, Townsville",Zimbabwe,Australia,96/10,100/2,Australia,Australia,field,268,243.1,Slow / Bowling
+1317478.json,2022-09-03,"Riverway Stadium, Townsville",Australia,Zimbabwe,141/10,142/7,Zimbabwe,Zimbabwe,field,425,243.1,Slow / Bowling
+1317479.json,2022-09-06,"Cazaly's Stadium, Cairns",New Zealand,Australia,232/9,233/8,Australia,Australia,field,581,243.1,Slow / Bowling
+1317480.json,2022-09-08,"Cazaly's Stadium, Cairns",Australia,New Zealand,195/9,82/10,Australia,New Zealand,field,502,243.1,Slow / Bowling
+1317481.json,2022-09-11,"Cazaly's Stadium, Cairns",Australia,New Zealand,267/5,242/10,Australia,New Zealand,field,611,243.1,Slow / Bowling
+1317489.json,2022-11-17,Adelaide Oval,England,Australia,287/9,291/4,Australia,Australia,field,598,243.1,Slow / Bowling
+1317490.json,2022-11-19,Sydney Cricket Ground,Australia,England,280/8,208/10,Australia,Australia,bat,540,243.1,Slow / Bowling
+1317491.json,2022-11-22,Melbourne Cricket Ground,Australia,England,355/5,142/10,Australia,England,field,495,243.1,Slow / Bowling
+1317900.json,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",India,West Indies,308/7,305/6,India,West Indies,field,619,243.1,Slow / Bowling
+1317901.json,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,India,311/6,312/8,India,West Indies,bat,611,243.1,Slow / Bowling
+1317902.json,2022-07-27,"Queen's Park Oval, Port of Spain, Trinidad",India,West Indies,225/3,137/10,India,India,bat,383,243.1,Slow / Bowling
+1317911.json,2022-08-17,"Kensington Oval, Bridgetown, Barbados",New Zealand,West Indies,190/10,193/5,West Indies,West Indies,field,517,243.1,Slow / Bowling
+1317912.json,2022-08-19,"Kensington Oval, Bridgetown, Barbados",New Zealand,West Indies,212/10,161/10,New Zealand,West Indies,field,513,243.1,Slow / Bowling
+1317913.json,2022-08-21,"Kensington Oval, Bridgetown, Barbados",West Indies,New Zealand,301/8,307/5,New Zealand,New Zealand,field,598,243.1,Slow / Bowling
+1322278.json,2022-11-25,"Eden Park, Auckland",India,New Zealand,306/7,309/3,New Zealand,New Zealand,field,601,243.1,Slow / Bowling
+1322279.json,2022-11-27,"Seddon Park, Hamilton",India,New Zealand,89/1,0/0,Unknown,New Zealand,field,78,243.1,Slow / Bowling
+1322280.json,2022-11-30,"Hagley Oval, Christchurch",India,New Zealand,219/10,104/1,Unknown,New Zealand,field,405,243.1,Slow / Bowling
+1323292.json,2022-08-05,Harare Sports Club,Bangladesh,Zimbabwe,303/3,307/5,Zimbabwe,Zimbabwe,field,608,243.1,Slow / Bowling
+1323293.json,2022-08-07,Harare Sports Club,Bangladesh,Zimbabwe,290/9,291/5,Zimbabwe,Zimbabwe,field,599,243.1,Slow / Bowling
+1323294.json,2022-08-10,Harare Sports Club,Bangladesh,Zimbabwe,256/9,151/10,Bangladesh,Zimbabwe,field,519,243.1,Slow / Bowling
+1325549.json,2022-08-18,Harare Sports Club,Zimbabwe,India,189/10,192/0,India,India,field,447,243.1,Slow / Bowling
+1325550.json,2022-08-20,Harare Sports Club,Zimbabwe,India,161/10,167/5,India,India,field,407,243.1,Slow / Bowling
+1325551.json,2022-08-22,Harare Sports Club,India,Zimbabwe,289/8,276/10,India,India,bat,618,243.1,Slow / Bowling
+1327509.json,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",South Africa,India,249/4,240/8,South Africa,India,field,506,243.1,Slow / Bowling
+1327510.json,2022-10-09,"JSCA International Stadium Complex, Ranchi",South Africa,India,278/7,282/3,India,South Africa,bat,582,243.1,Slow / Bowling
+1327511.json,2022-10-11,"Arun Jaitley Stadium, Delhi",South Africa,India,99/10,105/3,India,India,field,284,243.1,Slow / Bowling
+1340845.json,2022-12-04,"Shere Bangla National Stadium, Mirpur",India,Bangladesh,186/10,187/9,Bangladesh,Bangladesh,field,537,243.1,Slow / Bowling
+1340846.json,2022-12-07,"Shere Bangla National Stadium, Mirpur",Bangladesh,India,271/7,266/9,Bangladesh,Bangladesh,bat,620,243.1,Slow / Bowling
+1340847.json,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",India,Bangladesh,409/8,182/10,India,Bangladesh,field,512,243.1,Slow / Bowling

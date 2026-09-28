@@ -1,0 +1,113 @@
+match_id,date,venue,team1,team2,team1_score,team2_score,winner,toss_winner,toss_decision,total_balls,avg_1st_innings_score,pitch_type
+1322359.json,2023-03-25,"Eden Park, Auckland",New Zealand,Sri Lanka,274/10,76/10,New Zealand,Sri Lanka,field,433,269.4,Balanced
+1322361.json,2023-03-31,"Seddon Park, Hamilton",Sri Lanka,New Zealand,157/10,159/4,New Zealand,Sri Lanka,bat,460,269.4,Balanced
+1336052.json,2023-09-08,"Sophia Gardens, Cardiff",England,New Zealand,291/6,297/2,New Zealand,New Zealand,field,589,269.4,Balanced
+1336053.json,2023-09-10,"The Rose Bowl, Southampton",England,New Zealand,226/7,147/10,England,New Zealand,field,376,269.4,Balanced
+1336054.json,2023-09-13,"Kennington Oval, London",England,New Zealand,368/10,187/10,England,New Zealand,field,542,269.4,Balanced
+1336055.json,2023-09-15,"Lord's, London",England,New Zealand,311/9,211/9,England,England,bat,546,269.4,Balanced
+1336129.json,2023-09-23,"Trent Bridge, Nottingham",England,Ireland,334/8,286/10,England,Ireland,field,605,269.4,Balanced
+1336130.json,2023-09-26,"County Ground, Bristol",England,Ireland,280/4,0/0,Unknown,Ireland,field,188,269.4,Balanced
+1339595.json,2023-01-27,"Mangaung Oval, Bloemfontein",South Africa,England,298/7,271/10,South Africa,South Africa,bat,581,269.4,Balanced
+1339596.json,2023-01-29,"Mangaung Oval, Bloemfontein",England,South Africa,342/7,347/5,South Africa,South Africa,field,609,269.4,Balanced
+1339597.json,2023-02-01,"Diamond Oval, Kimberley",England,South Africa,346/7,287/10,England,South Africa,field,577,269.4,Balanced
+1339602.json,2023-03-18,"Buffalo Park, East London",West Indies,South Africa,335/8,287/10,West Indies,West Indies,bat,569,269.4,Balanced
+1339603.json,2023-03-21,"Senwes Park, Potchefstroom",West Indies,South Africa,260/10,264/6,South Africa,South Africa,field,489,269.4,Balanced
+1339611.json,2023-01-09,"National Stadium, Karachi",New Zealand,Pakistan,255/9,258/4,Pakistan,Pakistan,field,592,269.4,Balanced
+1339612.json,2023-01-11,"National Stadium, Karachi",New Zealand,Pakistan,261/10,182/10,New Zealand,New Zealand,bat,572,269.4,Balanced
+1339613.json,2023-01-13,"National Stadium, Karachi",Pakistan,New Zealand,280/9,281/8,New Zealand,Pakistan,bat,599,269.4,Balanced
+1339619.json,2023-04-27,Rawalpindi Cricket Stadium,New Zealand,Pakistan,288/7,291/5,Pakistan,Pakistan,field,597,269.4,Balanced
+1339620.json,2023-04-29,Rawalpindi Cricket Stadium,New Zealand,Pakistan,336/5,337/3,Pakistan,Pakistan,field,601,269.4,Balanced
+1339621.json,2023-05-03,"National Stadium, Karachi",Pakistan,New Zealand,287/6,261/10,Pakistan,New Zealand,field,607,269.4,Balanced
+1339622.json,2023-05-05,"National Stadium, Karachi",Pakistan,New Zealand,334/6,232/10,Pakistan,New Zealand,field,574,269.4,Balanced
+1339623.json,2023-05-07,"National Stadium, Karachi",New Zealand,Pakistan,299/10,252/10,New Zealand,New Zealand,bat,578,269.4,Balanced
+1348326.json,2023-01-18,Harare Sports Club,Ireland,Zimbabwe,288/5,214/7,Zimbabwe,Zimbabwe,field,539,269.4,Balanced
+1348327.json,2023-01-21,Harare Sports Club,Ireland,Zimbabwe,294/7,248/10,Ireland,Zimbabwe,field,609,269.4,Balanced
+1348328.json,2023-01-23,Harare Sports Club,Zimbabwe,Ireland,55/1,0/0,Unknown,Zimbabwe,bat,80,269.4,Balanced
+1348643.json,2023-01-10,"Barsapara Cricket Stadium, Guwahati",India,Sri Lanka,373/7,306/8,India,Sri Lanka,field,613,269.4,Balanced
+1348644.json,2023-01-12,"Eden Gardens, Kolkata",Sri Lanka,India,215/10,219/6,India,Sri Lanka,bat,519,269.4,Balanced
+1348645.json,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",India,Sri Lanka,390/5,73/9,India,India,bat,440,269.4,Balanced
+1348646.json,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,New Zealand,349/8,337/10,India,India,bat,621,269.4,Balanced
+1348647.json,2023-01-21,"Shaheed Veer Narayan Singh International Stadium, Raipur",New Zealand,India,108/10,111/2,India,India,field,333,269.4,Balanced
+1348648.json,2023-01-24,"Holkar Cricket Stadium, Indore",India,New Zealand,385/9,295/10,India,New Zealand,field,563,269.4,Balanced
+1348656.json,2023-03-17,"Wankhede Stadium, Mumbai",Australia,India,188/10,191/5,India,India,field,467,269.4,Balanced
+1348657.json,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,Australia,117/10,121/0,Australia,Australia,field,238,269.4,Balanced
+1348658.json,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Australia,India,269/10,248/10,Australia,Australia,bat,601,269.4,Balanced
+1351397.json,2023-03-01,"Shere Bangla National Stadium, Mirpur",Bangladesh,England,209/10,212/7,England,Bangladesh,bat,594,269.4,Balanced
+1351398.json,2023-03-03,"Shere Bangla National Stadium, Mirpur",England,Bangladesh,326/7,194/10,England,Bangladesh,field,575,269.4,Balanced
+1351399.json,2023-03-06,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,England,246/10,196/10,Bangladesh,Bangladesh,bat,560,269.4,Balanced
+1355717.json,2023-03-18,Sylhet International Cricket Stadium,Bangladesh,Ireland,338/8,155/10,Bangladesh,Ireland,field,499,269.4,Balanced
+1355718.json,2023-03-20,Sylhet International Cricket Stadium,Bangladesh,Ireland,349/6,0/0,Unknown,Ireland,field,306,269.4,Balanced
+1355719.json,2023-03-23,Sylhet International Cricket Stadium,Ireland,Bangladesh,101/10,102/0,Bangladesh,Ireland,bat,258,269.4,Balanced
+1364124.json,2023-05-09,"County Ground, Chelmsford",Bangladesh,Ireland,246/9,65/3,Unknown,Ireland,field,411,269.4,Balanced
+1364125.json,2023-05-12,"County Ground, Chelmsford",Ireland,Bangladesh,319/6,320/7,Bangladesh,Bangladesh,field,550,269.4,Balanced
+1365552.json,2023-05-14,"County Ground, Chelmsford",Bangladesh,Ireland,274/10,269/9,Bangladesh,Ireland,field,614,269.4,Balanced
+1373571.json,2023-09-07,"Mangaung Oval, Bloemfontein",South Africa,Australia,222/10,225/8,Australia,Australia,field,560,269.4,Balanced
+1373572.json,2023-09-09,"Mangaung Oval, Bloemfontein",Australia,South Africa,392/8,269/10,Australia,South Africa,field,562,269.4,Balanced
+1373573.json,2023-09-12,"Sedgars Park, Potchefstroom",South Africa,Australia,338/6,227/10,South Africa,Australia,field,521,269.4,Balanced
+1373574.json,2023-09-15,"SuperSport Park, Centurion",South Africa,Australia,416/5,252/10,South Africa,Australia,field,529,269.4,Balanced
+1373575.json,2023-09-17,"The Wanderers Stadium, Johannesburg",South Africa,Australia,315/9,193/10,South Africa,Australia,field,516,269.4,Balanced
+1373576.json,2023-12-03,"Sir Vivian Richards Stadium, North Sound, Antigua",England,West Indies,325/10,326/6,West Indies,England,bat,607,269.4,Balanced
+1373577.json,2023-12-06,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,England,202/10,206/4,England,England,field,442,269.4,Balanced
+1373578.json,2023-12-09,"Kensington Oval, Bridgetown, Barbados",England,West Indies,206/9,191/6,West Indies,West Indies,field,440,269.4,Balanced
+1377758.json,2023-06-24,Harare Sports Club,Zimbabwe,West Indies,268/10,233/10,Zimbabwe,West Indies,field,590,269.4,Balanced
+1377760.json,2023-06-25,"Queens Sports Club, Bulawayo",Sri Lanka,Ireland,325/10,192/10,Sri Lanka,Ireland,field,504,269.4,Balanced
+1377770.json,2023-07-02,"Queens Sports Club, Bulawayo",Zimbabwe,Sri Lanka,165/10,169/1,Sri Lanka,Sri Lanka,field,412,269.4,Balanced
+1377778.json,2023-07-07,Harare Sports Club,West Indies,Sri Lanka,243/10,244/2,Sri Lanka,Sri Lanka,field,568,269.4,Balanced
+1381214.json,2023-07-27,"Kensington Oval, Bridgetown, Barbados",West Indies,India,114/10,118/5,India,India,field,286,269.4,Balanced
+1381215.json,2023-07-29,"Kensington Oval, Bridgetown, Barbados",India,West Indies,181/10,182/4,West Indies,West Indies,field,478,269.4,Balanced
+1381216.json,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",India,West Indies,351/5,151/10,India,West Indies,field,527,269.4,Balanced
+1384392.json,2023-10-05,"Narendra Modi Stadium, Ahmedabad",England,New Zealand,282/9,283/1,New Zealand,New Zealand,field,525,269.4,Balanced
+1384395.json,2023-10-07,"Arun Jaitley Stadium, Delhi",South Africa,Sri Lanka,428/5,326/10,South Africa,Sri Lanka,field,594,269.4,Balanced
+1384396.json,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Australia,India,199/10,201/4,India,Australia,bat,557,269.4,Balanced
+1384398.json,2023-10-10,"Himachal Pradesh Cricket Association Stadium, Dharamsala",England,Bangladesh,364/9,227/10,England,Bangladesh,field,597,269.4,Balanced
+1384399.json,2023-10-10,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sri Lanka,Pakistan,344/9,345/4,Pakistan,Sri Lanka,bat,613,269.4,Balanced
+1384401.json,2023-10-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",South Africa,Australia,311/7,177/10,South Africa,Australia,field,561,269.4,Balanced
+1384402.json,2023-10-13,"MA Chidambaram Stadium, Chepauk, Chennai",Bangladesh,New Zealand,245/9,248/3,New Zealand,New Zealand,field,575,269.4,Balanced
+1384403.json,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Pakistan,India,191/10,192/3,India,India,field,442,269.4,Balanced
+1384405.json,2023-10-16,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sri Lanka,Australia,209/10,215/5,Australia,Sri Lanka,bat,485,269.4,Balanced
+1384408.json,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Bangladesh,India,256/8,261/3,India,Bangladesh,bat,558,269.4,Balanced
+1384409.json,2023-10-20,"M Chinnaswamy Stadium, Bengaluru",Australia,Pakistan,367/9,305/10,Australia,Pakistan,field,597,269.4,Balanced
+1384411.json,2023-10-21,"Wankhede Stadium, Mumbai",South Africa,England,399/7,170/9,South Africa,England,field,448,269.4,Balanced
+1384412.json,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",New Zealand,India,273/10,274/6,India,India,field,599,269.4,Balanced
+1384414.json,2023-10-24,"Wankhede Stadium, Mumbai",South Africa,Bangladesh,382/5,233/10,South Africa,South Africa,bat,601,269.4,Balanced
+1384416.json,2023-10-26,"M Chinnaswamy Stadium, Bengaluru",England,Sri Lanka,156/10,160/2,Sri Lanka,England,bat,361,269.4,Balanced
+1384417.json,2023-10-27,"MA Chidambaram Stadium, Chepauk, Chennai",Pakistan,South Africa,270/10,271/9,South Africa,Pakistan,bat,589,269.4,Balanced
+1384418.json,2023-10-28,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Australia,New Zealand,388/10,383/9,Australia,New Zealand,field,618,269.4,Balanced
+1384420.json,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,England,229/9,129/10,India,England,field,518,269.4,Balanced
+1384422.json,2023-10-31,"Eden Gardens, Kolkata",Bangladesh,Pakistan,204/10,205/3,Pakistan,Bangladesh,bat,473,269.4,Balanced
+1384423.json,2023-11-01,"Maharashtra Cricket Association Stadium, Pune",South Africa,New Zealand,357/4,167/10,South Africa,New Zealand,field,524,269.4,Balanced
+1384424.json,2023-11-02,"Wankhede Stadium, Mumbai",India,Sri Lanka,357/8,55/10,India,Sri Lanka,field,431,269.4,Balanced
+1384426.json,2023-11-04,"M Chinnaswamy Stadium, Bengaluru",New Zealand,Pakistan,401/6,200/1,Pakistan,Pakistan,field,470,269.4,Balanced
+1384427.json,2023-11-04,"Narendra Modi Stadium, Ahmedabad",Australia,England,286/10,253/10,Australia,England,field,598,269.4,Balanced
+1384428.json,2023-11-05,"Eden Gardens, Kolkata",India,South Africa,326/5,83/10,India,India,bat,485,269.4,Balanced
+1384429.json,2023-11-06,"Arun Jaitley Stadium, Delhi",Sri Lanka,Bangladesh,279/9,282/7,Bangladesh,Bangladesh,field,558,269.4,Balanced
+1384432.json,2023-11-09,"M Chinnaswamy Stadium, Bengaluru",Sri Lanka,New Zealand,171/10,172/5,New Zealand,New Zealand,field,425,269.4,Balanced
+1384434.json,2023-11-11,"Maharashtra Cricket Association Stadium, Pune",Bangladesh,Australia,306/8,307/2,Australia,Australia,field,582,269.4,Balanced
+1384435.json,2023-11-11,"Eden Gardens, Kolkata",England,Pakistan,337/9,244/10,England,England,bat,570,269.4,Balanced
+1384437.json,2023-11-15,"Wankhede Stadium, Mumbai",India,New Zealand,397/4,327/10,India,India,bat,611,269.4,Balanced
+1384438.json,2023-11-16,"Eden Gardens, Kolkata",South Africa,Australia,212/10,215/7,Australia,South Africa,bat,603,269.4,Balanced
+1384439.json,2023-11-19,"Narendra Modi Stadium, Ahmedabad",India,Australia,240/10,241/4,Australia,Australia,field,569,269.4,Balanced
+1387600.json,2023-12-17,"The Wanderers Stadium, Johannesburg",South Africa,India,116/10,117/2,India,South Africa,bat,279,269.4,Balanced
+1387601.json,2023-12-19,"St George's Park, Gqeberha",India,South Africa,211/10,215/2,South Africa,South Africa,field,550,269.4,Balanced
+1387602.json,2023-12-21,"Boland Park, Paarl",India,South Africa,296/8,218/10,India,South Africa,field,598,269.4,Balanced
+1388211.json,2023-12-20,"Saxton Oval, Nelson",Bangladesh,New Zealand,291/10,296/3,New Zealand,New Zealand,field,589,269.4,Balanced
+1388212.json,2023-12-23,"McLean Park, Napier",New Zealand,Bangladesh,98/10,99/2,Bangladesh,Bangladesh,field,290,269.4,Balanced
+1388393.json,2023-08-31,Pallekele International Cricket Stadium,Bangladesh,Sri Lanka,164/10,165/5,Sri Lanka,Bangladesh,bat,501,269.4,Balanced
+1388394.json,2023-09-02,Pallekele International Cricket Stadium,India,Pakistan,266/10,0/0,Unknown,India,bat,304,269.4,Balanced
+1388401.json,2023-09-06,"Gaddafi Stadium, Lahore",Bangladesh,Pakistan,193/10,194/3,Pakistan,Bangladesh,bat,474,269.4,Balanced
+1388403.json,2023-09-09,"R Premadasa Stadium, Colombo",Sri Lanka,Bangladesh,257/9,236/10,Sri Lanka,Bangladesh,field,610,269.4,Balanced
+1388406.json,2023-09-10,"R Premadasa Stadium, Colombo",India,Pakistan,356/2,128/8,India,Pakistan,field,503,269.4,Balanced
+1388407.json,2023-09-12,"R Premadasa Stadium, Colombo",India,Sri Lanka,213/10,172/10,India,India,bat,561,269.4,Balanced
+1388410.json,2023-09-14,"R Premadasa Stadium, Colombo",Pakistan,Sri Lanka,252/7,252/8,Sri Lanka,Pakistan,bat,523,269.4,Balanced
+1388412.json,2023-09-15,"R Premadasa Stadium, Colombo",Bangladesh,India,265/8,259/10,Bangladesh,India,field,616,269.4,Balanced
+1388414.json,2023-09-17,"R Premadasa Stadium, Colombo",Sri Lanka,India,50/10,51/0,India,Sri Lanka,bat,132,269.4,Balanced
+1389388.json,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Australia,India,276/10,281/5,India,India,field,597,269.4,Balanced
+1389389.json,2023-09-24,"Holkar Cricket Stadium, Indore",India,Australia,399/5,217/10,India,Australia,field,483,269.4,Balanced
+1389390.json,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Australia,India,352/7,286/10,Australia,Australia,bat,611,269.4,Balanced
+1395700.json,2023-09-21,"Shere Bangla National Stadium, Mirpur",New Zealand,Bangladesh,136/5,0/0,Unknown,Bangladesh,field,208,269.4,Balanced
+1395701.json,2023-09-23,"Shere Bangla National Stadium, Mirpur",New Zealand,Bangladesh,254/10,168/10,New Zealand,New Zealand,bat,555,269.4,Balanced
+1395702.json,2023-09-26,"Shere Bangla National Stadium, Mirpur",Bangladesh,New Zealand,171/10,175/3,New Zealand,Bangladesh,bat,424,269.4,Balanced
+1408102.json,2023-12-17,"University Oval, Dunedin",New Zealand,Bangladesh,239/7,200/9,New Zealand,Bangladesh,field,375,269.4,Balanced
+1408106.json,2023-12-13,Harare Sports Club,Zimbabwe,Ireland,121/6,0/0,Unknown,Ireland,field,155,269.4,Balanced
+1408107.json,2023-12-15,Harare Sports Club,Zimbabwe,Ireland,166/10,170/6,Ireland,Zimbabwe,bat,511,269.4,Balanced
+1408108.json,2023-12-17,Harare Sports Club,Zimbabwe,Ireland,197/10,204/3,Ireland,Ireland,field,480,269.4,Balanced
